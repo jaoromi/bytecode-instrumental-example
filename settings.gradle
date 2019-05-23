@@ -1,0 +1,4 @@
+rootProject.name = 'bytecode-instrumental-example'
+include 'time-logging-agent'
+include 'example-application'
+
